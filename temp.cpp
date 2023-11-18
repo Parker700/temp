@@ -1,8 +1,8 @@
 #include <iostream>
 
-int func()
+int newfunc()
 {
-return 7;
+return 9;
 }
 
 int main()
